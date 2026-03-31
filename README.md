@@ -5,5 +5,5 @@ Dieses Repository ist gedacht für den Kurs Software Engineering.
 - 👀 Block 230 -  Software Engineering
 - 🌱 I’m currently lead the course
 - 💞️ I’m looking to collaborate on teams and github..
-- 📫 How to reach me benno.gollan@gmail.com
-- 😄
+- 📫 How to reach me benno.gollan@gmail.com or +49-163-2222771
+- 😄 Be curious, not judgmental.
